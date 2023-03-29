@@ -13,13 +13,13 @@
 
 @media screen and (max-width: 768px) {
   .note-input-expanded {
-    width: 400px;
+    width: 350px;
     margin-top: 1;
     padding-left: 1;
   }
 
   .note-input-closed {
-    width: 400px;
+    width: 350px;
     padding-left: 1;
     display: flex;
     align-items: center;
