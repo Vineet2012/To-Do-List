@@ -237,17 +237,7 @@ export default function NoteInputCmp({ taskInput, handleInput, handleSubmit }) {
                         </Box>
                       </Box>
                     </Popper>
-                    <Box>
-                      <Tooltip title="Colaborator">
-                        <IconButton
-                          size="large"
-                          aria-label="show 17 new notifications"
-                          color="inherit"
-                        >
-                          <ContactsOutlined fontSize="small" />
-                        </IconButton>
-                      </Tooltip>
-                    </Box>
+
                     <Box>
                       <Tooltip title="Background Options">
                         <IconButton
